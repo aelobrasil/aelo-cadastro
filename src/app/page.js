@@ -101,7 +101,7 @@ export default function Home() {
           />
         </label>
         <button
-          type="submit"
+          type="submit"A
           disabled={loading}
           style={{ padding: '12px 20px', backgroundColor: '#25D366', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer', fontWeight: 'bold' }}
         >
